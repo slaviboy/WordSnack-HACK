@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_language">Изберете език</string>
+    <string name="title">Въведете буквите</string>
+    <string name="description">(напишете дадените букви)</string>
+    <string name="letters">Букви</string>
+    <string name="generate_words">Генерирайте думи</string>
+    <string name="range_label">Филтриране на думи с дължина от %s до %s знака</string>
+</resources>

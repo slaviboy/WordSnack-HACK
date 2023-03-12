@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">WorldSnack-HACK</string>
+    <string name="choose_language">Choose language</string>
+    <string name="title">Enter the letters</string>
+    <string name="description">(type the letters that are given)</string>
+    <string name="letters">Letters</string>
+    <string name="generate_words">Generate words</string>
+    <string name="range_label">Filter words from %s to %s chars long</string>
+</resources>

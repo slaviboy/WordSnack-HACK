@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_language">Choisissez la langue</string>
+    <string name="title">Entrez les lettres</string>
+    <string name="description">(tapez les lettres qui sont données)</string>
+    <string name="letters">Lettres</string>
+    <string name="generate_words">Générer des mots</string>
+    <string name="range_label">Filtrer les mots de %s à %s caractères</string>
+</resources>

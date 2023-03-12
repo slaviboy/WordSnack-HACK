@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_language">Выберите язык</string>
+    <string name="title">Введите буквы</string>
+    <string name="description">(введите буквы, которые даны)</string>
+    <string name="letters">Буквы</string>
+    <string name="generate_words">Генерировать слова</string>
+    <string name="range_label">Фильтровать слова от %s до %s символов в длину</string>
+</resources>

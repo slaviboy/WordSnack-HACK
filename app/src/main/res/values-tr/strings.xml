@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_language">Dil seçiniz</string>
+    <string name="title">Harfleri girin</string>
+    <string name="description">(verilen harfleri yazınız)</string>
+    <string name="letters">Harfler</string>
+    <string name="generate_words">"Kelime oluştur "</string>
+    <string name="range_label">Kelimeleri %s ile %s karakter uzunluğunda filtrele</string>
+</resources>
